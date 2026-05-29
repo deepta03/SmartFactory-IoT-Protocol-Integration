@@ -1,3 +1,3 @@
 # SmartFactory-IoT-Protocol-Integration
 
-## Please find the .zip file from the release 1.0.0 on the right side. 
+## Please find the .zip file from the release 1.0.0 on the right side. The.zip file contains the final submission.
